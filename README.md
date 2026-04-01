@@ -2,7 +2,7 @@
 
 
 
-![Preview](Luxora.jpg)
+![Preview](Luxora.jpeg)
 
 
 
