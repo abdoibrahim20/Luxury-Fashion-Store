@@ -8,11 +8,6 @@
 
 A responsive, modern luxury fashion e-commerce platform featuring curated collections of premium clothing, footwear, and accessories.
 
-[
-
-![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge)
-
-](https://abdoibrahim20.github.io/Luxury-Fashion-Store)
 
 ---
 
