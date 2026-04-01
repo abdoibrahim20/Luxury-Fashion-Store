@@ -94,6 +94,7 @@ const App = {
   },
 
   renderShell() {
+    document.head.insertAdjacentHTML('beforeend', '<link rel="stylesheet" href="./styles.css">');
     document.body.innerHTML = `
     <header class="site-header" id="site-header">
       <div class="header-top">Free shipping on orders over $500 · Easy 30-day returns</div>
