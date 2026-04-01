@@ -13,21 +13,6 @@ A responsive, modern luxury fashion e-commerce platform featuring curated collec
 ![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge)
 
 ](https://abdoibrahim20.github.io/Luxury-Fashion-Store)
-[
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-](https://github.com/abdoibrahim20/Luxury-Fashion-Store)
-[
-
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-](https://github.com/abdoibrahim20/Luxury-Fashion-Store)
-[
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-](https://github.com/abdoibrahim20/Luxury-Fashion-Store)
 
 ---
 
